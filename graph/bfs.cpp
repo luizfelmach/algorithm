@@ -48,7 +48,7 @@ int main() {
         if (dist[vert] != -1) {
             cout << "Distance: " << dist[vert] << endl;
         } else {
-            cout << "Dont visited!" << endl;
+            cout << "Not visited!" << endl;
         }
     }
     return 0;

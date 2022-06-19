@@ -35,7 +35,7 @@ int main() {
         if (visiteds[vert]) {
             cout << "Visited!" << endl;
         } else {
-            cout << "Dont visited!" << endl;
+            cout << "Not visited!" << endl;
         }
     }
     return 0;
